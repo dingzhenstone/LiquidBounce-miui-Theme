@@ -1,0 +1,76 @@
+{
+  "id": "miui",
+  "name": "MIUI",
+  "version": "1.0.0",
+  "authors": ["j3rk0ff"],
+  "colors": {
+    "Accent": "#4da6ff",
+    "Tint": "#242424"
+  },
+  "screens": [
+    "clickgui",
+    "title",
+    "proxymanager",
+    "multiplayer",
+    "altmanager",
+    "customize",
+    "singleplayer"
+  ],
+  "overlays": [
+    "hud",
+    "inventory",
+    "container",
+    "disconnected",
+    "browser"
+  ],
+  "components": [
+    "Watermark",
+    "TabGui",
+    "ArrayList",
+    "Notifications",
+    "Hotbar",
+    "Scoreboard",
+    "ArmorItems",
+    "InventoryStatistics",
+    "Inventory",
+    "CraftingInventory",
+    "EnderChestInventory",
+    "TargetHud",
+    "BlockCounter",
+    "Effects",
+    "Keystrokes",
+    "Taco",
+    "Image",
+    "Text",
+    "KeyBinds",
+    "ClosedCaptions"
+  ],
+  "fonts": [
+    "Inter-Black.ttf",
+    "Inter-Bold.ttf",
+    "Inter-ExtraBold.ttf",
+    "Inter-ExtraLight.ttf",
+    "Inter-Light.ttf",
+    "Inter-Medium.ttf",
+    "Inter-Regular.ttf",
+    "Inter-SemiBold.ttf",
+    "Inter-Thin.ttf",
+    "MiSansLatin-Bold.ttf",
+    "MiSansLatin-Demibold.ttf",
+    "MiSansLatin-ExtraLight.ttf",
+    "MiSansLatin-Heavy.ttf",
+    "MiSansLatin-Light.ttf",
+    "MiSansLatin-Medium.ttf",
+    "MiSansLatin-Normal.ttf",
+    "MiSansLatin-Regular.ttf",
+    "MiSansLatin-Semibold.ttf",
+    "MiSansLatin-Thin.ttf"
+  ],
+  "backgrounds": [
+    {
+      "name": "background",
+      "types": ["frag", "png"]
+    }
+  ],
+  "values": []
+}
